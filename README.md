@@ -1,5 +1,3 @@
-# LinearRegression
- 
 ![GitHub repo size](https://img.shields.io/github/repo-size/felipebacelo/LinearRegression?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/felipebacelo/LinearRegression?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/felipebacelo/LinearRegression?style=for-the-badge)
@@ -7,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/felipebacelo?style=for-the-badge)
 
 # LinearRegression
-Exemplo de Regressão Linear em Python
+Exemplo de Regressão Linear em Python.
 
 ### Desenvolvimento
 
