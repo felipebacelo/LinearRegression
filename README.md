@@ -1,8 +1,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/felipebacelo/LinearRegression?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/felipebacelo/LinearRegression?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/felipebacelo/LinearRegression?style=for-the-badge)
-![GitHub All Releases](https://img.shields.io/github/downloads/felipebacelo/LinearRegression/total?style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/felipebacelo?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/felipebacelo/LinearRegression?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/felipebacelo/LinearRegression?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/felipebacelo/LinearRegression?style=for-the-badge)
 
 # LinearRegression
 Simples Exemplo de Regressão Linear em Python.
@@ -27,7 +27,7 @@ Desenvolvido em Python através do Jupyter Notebook.
 
 ### Exemplo de Plotagem do Gráfico
 
-```
+```python
 #realiza o plot da figura
 f = plt.figure(figsize=(4, 4), dpi=100) #indica o tamanho da figura
 axes = f.add_subplot(111) #cria os objetos para o subplot
